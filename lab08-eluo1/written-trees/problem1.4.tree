@@ -1,0 +1,39 @@
+              40
+      24           54
+  12     36      46  80
+8   13 35  38          81
+ 10
+
+# TODO: write a step-by-step explanation here just as we did with the other problems.
+: After removing the node 24, the tree looks like this:
+                    40
+                /        \
+            13            54
+          /    \         /   \
+        12      36      46    80
+      /        /  \             \
+     8        35  38              81
+      \
+       10
+
+: Now the tree is unbalanced at nodes 12 and 40. The balancing acts from bottom to top, so we want to first left rotate the subtree rooted at 8. The resulting tree looks like this:
+                  40
+              /       \
+            13         54
+          /    \      /   \
+        12      36   46   80
+       /       /  \         \
+     10       35  38        81
+    /
+   8
+
+: And now we want to right rotate the subtree rooted at node 12. The resulting tree looks like this:
+                    40
+                /        \
+            13            54
+          /    \         /   \
+        10      36      46    80
+      /   \    /  \             \
+     8    12  35  38             81
+
+: Now the tree is balanced. 

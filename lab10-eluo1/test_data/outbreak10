@@ -1,0 +1,89 @@
+10 76
+weighted
+directed
+blackiston
+chikaima
+hankins
+hannus
+ilijah
+lougheed
+nikolaus
+oplis
+vianor
+vyonne
+blackiston hankins 3
+blackiston hannus 3
+blackiston ilijah 3
+blackiston lougheed 3
+blackiston nikolaus 2
+blackiston oplis 3
+blackiston vianor 3
+blackiston vyonne 3
+chikaima hankins 4
+chikaima hannus 4
+chikaima ilijah 4
+chikaima lougheed 4
+chikaima nikolaus 3
+chikaima oplis 3
+chikaima vianor 4
+chikaima vyonne 3
+hankins blackiston 4
+hankins chikaima 4
+hankins hannus 4
+hankins ilijah 4
+hankins lougheed 4
+hankins oplis 4
+hankins vianor 4
+hankins vyonne 4
+hannus blackiston 4
+hannus chikaima 4
+hannus hankins 4
+hannus ilijah 4
+hannus lougheed 4
+hannus nikolaus 3
+hannus vianor 4
+hannus vyonne 4
+ilijah blackiston 3
+ilijah chikaima 4
+ilijah hankins 4
+ilijah hannus 4
+ilijah lougheed 4
+ilijah oplis 3
+ilijah vyonne 3
+lougheed blackiston 3
+lougheed chikaima 4
+lougheed hankins 4
+lougheed hannus 4
+lougheed ilijah 4
+lougheed nikolaus 3
+lougheed oplis 3
+lougheed vianor 4
+nikolaus blackiston 2
+nikolaus chikaima 3
+nikolaus hannus 3
+nikolaus lougheed 3
+nikolaus vianor 3
+nikolaus vyonne 2
+oplis blackiston 3
+oplis chikaima 3
+oplis hankins 3
+oplis ilijah 3
+oplis lougheed 3
+oplis vianor 3
+oplis vyonne 3
+vianor blackiston 4
+vianor chikaima 4
+vianor hankins 5
+vianor hannus 5
+vianor lougheed 4
+vianor nikolaus 4
+vianor oplis 4
+vianor vyonne 4
+vyonne blackiston 3
+vyonne chikaima 3
+vyonne hankins 3
+vyonne hannus 3
+vyonne ilijah 3
+vyonne nikolaus 3
+vyonne oplis 3
+vyonne vianor 4

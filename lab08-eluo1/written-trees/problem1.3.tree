@@ -1,0 +1,40 @@
+     30
+  20      40
+              50
+
+: After inserting 47 (but before rebalancing), the tree will look like this:
+
+# TODO
+         30
+        /  \
+      20    40
+              \
+               50
+              /
+             47
+
+: At this point, the tree is out of balance at node with keys 40 and 30. The balancing acts from bottom to top, so we right rotate the subtree rooted at 50:
+
+# TODO: finish the above statement.
+: \vspace{0.6in}
+
+: The resulting tree looks like this:
+
+# TODO: write the post-balance tree here.
+         30
+        /  \
+      20    40
+              \
+               47
+                \
+                 50
+
+: Now, we want to left rotate the subtree rooted at 40. The resulting tree looks like this:
+         30
+        /  \
+      20    47
+           /  \
+          40   50
+                
+
+: \vspace{1in}

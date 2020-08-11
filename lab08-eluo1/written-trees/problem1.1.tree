@@ -1,0 +1,13 @@
+       8
+    6     9
+  4  7
+ 2
+
+# TODO: write the answer here.
+# remove this vertical space once you have added your tree.
+: After a right rotation of the subtree rooted at 8, which happens to the the whole tree, we obtain:
+     6
+   /   \
+  4     8
+ /     / \
+2     7   9

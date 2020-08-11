@@ -1,0 +1,189 @@
+20 166
+weighted
+directed
+abagail
+ariona
+bettyjane
+chaye
+correen
+dakayden
+hodosh
+jhaniyah
+krispin
+kyris
+marzana
+nantambu
+pyles
+quirijn
+rhyson
+roandy
+rumell
+sretan
+turmaine
+yandier
+abagail ariona 4
+abagail chaye 3
+abagail marzana 3
+abagail pyles 4
+abagail quirijn 4
+ariona abagail 3
+ariona chaye 2
+ariona dakayden 4
+ariona kyris 3
+ariona marzana 3
+ariona pyles 3
+ariona quirijn 3
+ariona turmaine 4
+ariona yandier 4
+bettyjane krispin 2
+bettyjane marzana 2
+bettyjane rhyson 2
+bettyjane rumell 2
+bettyjane sretan 2
+bettyjane turmaine 2
+chaye abagail 2
+chaye ariona 2
+chaye correen 2
+chaye hodosh 2
+chaye jhaniyah 2
+chaye kyris 1
+chaye marzana 2
+chaye nantambu 2
+chaye pyles 2
+chaye quirijn 2
+chaye rhyson 2
+chaye turmaine 2
+correen chaye 3
+correen dakayden 5
+correen jhaniyah 5
+correen nantambu 4
+correen quirijn 5
+correen rhyson 5
+correen roandy 4
+correen rumell 4
+correen turmaine 5
+correen yandier 6
+dakayden ariona 5
+dakayden correen 5
+dakayden hodosh 5
+dakayden kyris 4
+dakayden pyles 5
+dakayden roandy 4
+dakayden rumell 4
+dakayden yandier 6
+hodosh chaye 3
+hodosh dakayden 4
+hodosh kyris 3
+hodosh marzana 3
+hodosh nantambu 4
+hodosh pyles 4
+hodosh sretan 3
+hodosh turmaine 4
+jhaniyah chaye 3
+jhaniyah correen 5
+jhaniyah kyris 4
+jhaniyah marzana 4
+jhaniyah nantambu 4
+jhaniyah roandy 4
+jhaniyah rumell 4
+krispin bettyjane 2
+krispin roandy 2
+krispin rumell 2
+krispin sretan 2
+krispin turmaine 2
+kyris ariona 2
+kyris chaye 2
+kyris dakayden 3
+kyris hodosh 2
+kyris jhaniyah 3
+kyris marzana 2
+kyris pyles 2
+kyris quirijn 2
+kyris rumell 2
+kyris sretan 2
+kyris turmaine 3
+kyris yandier 3
+marzana abagail 3
+marzana ariona 3
+marzana bettyjane 2
+marzana chaye 2
+marzana hodosh 3
+marzana jhaniyah 3
+marzana kyris 2
+marzana nantambu 3
+marzana quirijn 3
+marzana rhyson 4
+marzana sretan 3
+marzana turmaine 4
+nantambu chaye 3
+nantambu correen 4
+nantambu hodosh 4
+nantambu jhaniyah 4
+nantambu marzana 4
+nantambu quirijn 4
+nantambu rumell 4
+pyles abagail 4
+pyles ariona 3
+pyles chaye 2
+pyles dakayden 4
+pyles hodosh 4
+pyles kyris 3
+pyles rhyson 4
+pyles roandy 3
+pyles sretan 3
+pyles yandier 5
+quirijn abagail 4
+quirijn ariona 4
+quirijn chaye 3
+quirijn correen 4
+quirijn kyris 3
+quirijn marzana 4
+quirijn nantambu 4
+quirijn rumell 4
+rhyson bettyjane 4
+rhyson chaye 4
+rhyson correen 5
+rhyson marzana 5
+rhyson pyles 5
+rhyson sretan 5
+roandy correen 3
+roandy dakayden 4
+roandy jhaniyah 3
+roandy krispin 2
+roandy pyles 3
+roandy rumell 3
+roandy yandier 4
+rumell bettyjane 2
+rumell correen 3
+rumell dakayden 4
+rumell jhaniyah 3
+rumell krispin 2
+rumell kyris 2
+rumell nantambu 3
+rumell quirijn 3
+rumell roandy 3
+rumell sretan 3
+rumell turmaine 4
+sretan bettyjane 2
+sretan hodosh 3
+sretan krispin 2
+sretan kyris 2
+sretan marzana 3
+sretan pyles 3
+sretan rhyson 4
+sretan rumell 3
+turmaine ariona 5
+turmaine bettyjane 4
+turmaine chaye 3
+turmaine correen 5
+turmaine hodosh 5
+turmaine krispin 4
+turmaine kyris 4
+turmaine marzana 4
+turmaine rumell 4
+yandier ariona 6
+yandier correen 7
+yandier dakayden 7
+yandier kyris 5
+yandier pyles 6
+yandier roandy 6
