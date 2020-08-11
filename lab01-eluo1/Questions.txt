@@ -1,0 +1,35 @@
+Answer the following questions by modifying this text file.  Write
+your answers between each question.  You're not being graded or judged
+on these answers.
+
+1. What is your name?  What do you prefer to be called?
+My name is Ercong Luo. I prefer to be called Tony. 
+
+
+2. Why are you taking CS35?
+I am taking CS 35 to enhance my programming skills and have a more sophisticated introduction to computer science(I did not take CS21).
+
+
+3. What is your previous experience in Computer Science?  What
+programming languages do you know, and which classes have you taken?
+I have no previous experience at our CS department. My previous programming experience come from building data visualizations and processing lab data doing physics. I have also accumulated programming experience 
+with the programming assignments in numerical computing classes at our engineering department. 
+I know Python. My previous physics and engineering courses involving Python programming include PHYS 17(Math Methods in Physics), ENGR 19(numerical methods), ENGR 56(modeling).
+
+
+4. These are a couple questions about how you approach your assignments.
+
+  a. Do you start on your homework as soon as it is assigned or do you
+  tend to finish it right before it's due?
+  I tend to finish it the day before an assignment is due.
+  
+  
+  b. When doing group work, do you prefer for your group to split your
+  work up into pieces or do you like to work together as a group
+  through as much of the material as possible?
+  I prefer working together as a group through the material.
+
+
+5. What do you consider fun?
+I find watching tv shows and gaming streams relaxing and fun. I also enjoy playing and listening to classical music. 
+
